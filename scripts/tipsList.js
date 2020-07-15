@@ -11,7 +11,7 @@ export const tipsList = () => {
     }
 
     contentElement.innerHTML += `
-        <article class="fish__main">
+        <article class="tips__main">
             ${tipsHTMLRepresentation}
         </article>
     `
