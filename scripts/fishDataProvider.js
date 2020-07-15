@@ -2,19 +2,20 @@
 
 const fishCollection = [
     {
-        name: "Bass",
+        name: "Bluegill",
         food: "Insects",
         species: "Largemouth",
         length: 4,
         location: "River",
-        image: ".img/bass.jpg"
+        image: "./img/bass.jpg"
+    },
     {
-        name: "Bass",
+        name: "Bluegill",
         food: "Insects",
         species: "Largemouth",
         length: 4,
         location: "River",
-        image: ".img/Bluegill.jpg"
+        image: "./img/Bluegill.jpg"
     },
     {
         name: "Bass",
@@ -22,8 +23,8 @@ const fishCollection = [
         species: "Largemouth",
         length: 4,
         location: "River",
-        image: ".img/bass.jpg"
-    },
+        image: "./img/bass.jpg"
+    }
 ]
 
 export const useFish = () => {
