@@ -2,7 +2,7 @@
 
 const fishCollection = [
     {
-        name: "Bass",
+        name: "Bluegill",
         food: "Insects",
         species: "Largemouth",
         length: 4,
@@ -10,7 +10,7 @@ const fishCollection = [
         image: "./img/bass.jpg"
     },
     {
-        name: "Bass",
+        name: "Bluegill",
         food: "Insects",
         species: "Largemouth",
         length: 4,
