@@ -1,6 +1,6 @@
 export const fishHTML = (fishObj) => {
     return `
-        <section class="fish card">
+        <section class="fish__card">
             <div><img  class="fish__image image--card" src="${fishObj.image}" /></div>
             <div class="fish__name">${fishObj.name}</div>
             <div class="fish__species">${fishObj.species}</div>

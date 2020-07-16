@@ -1,18 +1,18 @@
 const locationCollection = [
     {
-        image: ./img/##.jpg,
-        quote: "No fish is too cool for it's school",
-        author: "-Unknown"
+        image: "./img/lake1.jpg",
+        place: "Lake Manor",
+        about: "This Lake is most known for it's..."
     },
     {
-        image: ./img/##.jpg,
-        quote: "What is a fun quote?",
-        author: "-Unknown"
+        image: "./img/lake2.jpg",
+        place: "Lake Manor",
+        about: "This Lake is most known for it's..."
     },
     {
-        image: ./img/##.jpg,
-        quote: "1.. 2.. 3.. that's fine with me.",
-        author: "-Someone"
+        image: "./img/lake3.jpg",
+        place: "Lake Manor",
+        about: "This Lake is most known for it's..."
     }
 ]
 

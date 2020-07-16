@@ -1,19 +1,9 @@
-
-const tipCollection = [
+const tipsCollection = [
     {
-        quote: "No fish is too cool for it's school",
-        author: "-Unknown"
-    },
-    {
-        quote: "What is a fun quote?",
-        author: "-Unknown"
-    },
-    {
-        quote: "1.. 2.. 3.. that's fine with me.",
-        author: "-Someone"
+       tips: "Some fish are more unique than others and require a specific PH level."
     }
 ]
 
 export const useTips = () => {
-    return tipCollection.slice()
+    return tipsCollection.slice()
 }
